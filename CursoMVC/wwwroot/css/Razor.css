@@ -14,6 +14,10 @@
     border-bottom: 5px solid #dee2e6;
 }
 
+label[for=check] {
+    cursor: pointer;
+}
+
 
 /*COLLAPSE DIV*/
 .check {
