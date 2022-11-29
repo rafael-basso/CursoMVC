@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fsWMP+H6uRTDlIeUUfIdC3yaSuOXL40hB5EYz1Ght4kNQJ4lzoRAKpBOVFRuqFKr29dBlQJk0H1pTRAwzjw2TA==",
+  "dgSpecHash": "8G2eNIDGDE0pswYunnu+lYtDEKHV6gd0qXoKN5PhcdCpDWn2/E4T8Knl8W8Pv05VCivYjwjTKYpk2rizE4kGYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafael.basso\\Documents\\Personal\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
+  "projectFilePath": "C:\\Users\\rafael.basso\\Documents\\Personal\\GitHub_Projects\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rafael.basso\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\rafael.basso\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
