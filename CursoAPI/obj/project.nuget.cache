@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "MuVMezsCsxRo4XMvS+RNhLfkC52FLhErlqGIosMSVrBBYqbsyO1y3QxFTdnzqqmBzZYPZIV+4J8Rtv+4Okx/fg==",
+=======
+  "dgSpecHash": "6EI+NAGdIbI1ROh2eddJ3e2QzzvLwVFqX/ZkaGlEtCWJ2eD9deEtiCp8IaBrhQFnPgpMHsEkgNKJhfLTpl4FOQ==",
+>>>>>>> master
   "success": true,
   "projectFilePath": "c:\\Users\\rafael.basso\\Documents\\Personal\\GitHub_Projects\\CursoMVC\\CursoAPI\\CursoAPI.csproj",
   "expectedPackageFiles": [

@@ -16,7 +16,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("CursoAPI")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c54e97ed1cd984fcbdb6d7e1a9ac8324ddf69a9f")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b7549f059d14b53a13b76a754f4616236eed732")]
+>>>>>>> master
 [assembly: System.Reflection.AssemblyTitleAttribute("CursoAPI.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
