@@ -446,7 +446,6 @@ C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\bin\D
 C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\bin\Debug\net5.0\CursoMVC.runtimeconfig.json
 C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\bin\Debug\net5.0\CursoMVC.runtimeconfig.dev.json
 C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\bin\Debug\net5.0\CursoMVC.dll
-C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\bin\Debug\net5.0\ref\CursoMVC.dll
 C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\bin\Debug\net5.0\CursoMVC.pdb
 C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
 C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
@@ -849,7 +848,6 @@ C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\obj\D
 C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\obj\Debug\net5.0\CursoMVC.RazorAssemblyInfo.cache
 C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\obj\Debug\net5.0\CursoMVC.RazorAssemblyInfo.cs
 C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\obj\Debug\net5.0\staticwebassets\CursoMVC.StaticWebAssets.Manifest.cache
-C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\obj\Debug\net5.0\staticwebassets\CursoMVC.StaticWebAssets.xml
 C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\obj\Debug\net5.0\scopedcss\bundle\CursoMVC.styles.css
 C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\obj\Debug\net5.0\CursoMVC.TagHelpers.input.cache
 C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\obj\Debug\net5.0\CursoMVC.TagHelpers.output.cache
@@ -881,3 +879,12 @@ C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\obj\D
 C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\obj\Debug\net5.0\ref\CursoMVC.dll
 C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\obj\Debug\net5.0\CursoMVC.pdb
 C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\obj\Debug\net5.0\CursoMVC.genruntimeconfig.cache
+C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\bin\Debug\net5.0\CursoMVC.StaticWebAssets.xml
+C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\obj\Debug\net5.0\CursoMVC.csproj.AssemblyReference.cache
+C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\obj\Debug\net5.0\CursoMVC.sourcelink.json
+C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\obj\Debug\net5.0\staticwebassets\CursoMVC.StaticWebAssets.Pack.cache
+C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\obj\Debug\net5.0\staticwebassets\msbuild.CursoMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\obj\Debug\net5.0\staticwebassets\msbuild.build.CursoMVC.props
+C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CursoMVC.props
+C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CursoMVC.props
+C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoMVC\obj\Debug\net5.0\refint\CursoMVC.dll

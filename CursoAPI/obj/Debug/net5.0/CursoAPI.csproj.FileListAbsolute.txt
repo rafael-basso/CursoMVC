@@ -888,3 +888,11 @@ C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoAPI\obj\D
 C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoAPI\obj\Debug\net5.0\ref\CursoAPI.dll
 C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoAPI\obj\Debug\net5.0\CursoAPI.pdb
 C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoAPI\obj\Debug\net5.0\CursoAPI.genruntimeconfig.cache
+C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoAPI\bin\Debug\net5.0\CursoMVC.StaticWebAssets.xml
+C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoAPI\obj\Debug\net5.0\CursoAPI.sourcelink.json
+C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoAPI\obj\Debug\net5.0\staticwebassets\CursoAPI.StaticWebAssets.Pack.cache
+C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoAPI\obj\Debug\net5.0\staticwebassets\msbuild.CursoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoAPI\obj\Debug\net5.0\staticwebassets\msbuild.build.CursoAPI.props
+C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CursoAPI.props
+C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CursoAPI.props
+C:\Users\rafael.basso\Documents\Personal\GitHub_Projects\CursoMVC\CursoAPI\obj\Debug\net5.0\refint\CursoAPI.dll
