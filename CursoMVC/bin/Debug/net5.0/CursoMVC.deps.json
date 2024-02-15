@@ -39,6 +39,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.12",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.12",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "5.0.2",
+          "System.Web.Mvc.Extensions": "1.1.1.2",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "5.0.0.0",
@@ -1770,6 +1771,17 @@
         }
       },
       "System.Threading.Tasks.Extensions/4.5.4": {},
+      "System.Web.Mvc.Extensions/1.1.1.2": {
+        "runtime": {
+          "lib/net45/System.Web.Mvc.Extensions.dll": {
+            "assemblyVersion": "1.1.0.6",
+            "fileVersion": "1.1.0.6"
+          }
+        },
+        "compile": {
+          "lib/net45/System.Web.Mvc.Extensions.dll": {}
+        }
+      },
       "System.Windows.Extensions/4.7.0": {
         "dependencies": {
           "System.Drawing.Common": "4.7.0"
@@ -4392,6 +4404,13 @@
       "sha512": "sha512-zteT+G8xuGu6mS+mzDzYXbzS7rd3K6Fjb9RiZlYlJPam2/hU7JCBZBVEcywNuR+oZ1ncTvc/cq0faRr3P01OVg==",
       "path": "system.threading.tasks.extensions/4.5.4",
       "hashPath": "system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+    },
+    "System.Web.Mvc.Extensions/1.1.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-A8+X7EW9un/RedIBhpA/LMSvWw8iaEa9mJt0nvcFYQM2F1CoggZp6e7c50CIDfL6g5/105u7Q/QO8m7EUGtL9A==",
+      "path": "system.web.mvc.extensions/1.1.1.2",
+      "hashPath": "system.web.mvc.extensions.1.1.1.2.nupkg.sha512"
     },
     "System.Windows.Extensions/4.7.0": {
       "type": "package",

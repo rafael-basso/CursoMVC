@@ -6,7 +6,8 @@
     <title>@ViewData["Title"] - CursoMVC</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />    
-    <script type="text/javascript" src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 <body>
     <header>
@@ -37,6 +38,9 @@
                         <li class="nav-item">
                             <a>@Html.ActionLink("ModalSample", "Modal", "Home", new { area = "" }, new { @class = "nav-link text-dark" })</a>
                         </li>
+                        <li class="nav-item">
+                            <a>@Html.ActionLink("Validacao-JQuery", "Validation", "Home", new { area = "" }, new { @class = "nav-link text-dark" })</a>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -52,9 +56,7 @@
         <div class="container">
             &copy; @DateTime.Now.Day/@DateTime.Now.Month/@DateTime.Now.Year - CursoMVC - <a asp-area="" asp-controller="Home" asp-action="Razor">Razor</a>
         </div>
-    </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    </footer>    
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>

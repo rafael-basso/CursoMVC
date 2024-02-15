@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "A+x8S3SJ2k/OIGcrdWOdNQsyUA0HNHqYh2U3BJeXpbTNBSrzHfYfmcek7coqlDeGPbcFvWJxglb4GkFhiLFKfA==",
+  "dgSpecHash": "zqL716iXXxSRup1ML2FWWnmv5f5ChOtqn1c88na6j+BTo+gcSIhZCVz8ZqTdVY3dIDbmk98yqf13FcDQC7vaeg==",
   "success": true,
   "projectFilePath": "c:\\Users\\rafael.basso\\Documents\\Personal\\GitHub_Projects\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
   "expectedPackageFiles": [
@@ -126,11 +126,23 @@
     "C:\\Users\\rafael.basso\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\rafael.basso\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\rafael.basso\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\rafael.basso\\.nuget\\packages\\system.web.mvc.extensions\\1.1.1.2\\system.web.mvc.extensions.1.1.1.2.nupkg.sha512",
     "C:\\Users\\rafael.basso\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
     "C:\\Users\\rafael.basso\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\rafael.basso\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\rafael.basso\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\rafael.basso\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Web.Mvc.Extensions 1.1.1.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "System.Web.Mvc.Extensions",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

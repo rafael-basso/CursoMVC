@@ -1,0 +1,32 @@
+<title>Validando formulários com JQuery Validation</title>
+
+<!-- Inclusão do Plugin-->
+<script type="text/javascript" src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<!-- Inclusão do metodos adicionais-->
+<script type="text/javascript" src="~/lib/jquery-validation/dist/additional-methods.min.js"></script>
+<!-- validation - unobstrusive -->
+@* <script type="text/javascript" src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script> *@
+
+<link rel="stylesheet" href="">
+<script type="text/javascript" src="~/js/validator.js"></script>
+
+<form id="formComentario" method="post">
+  <fieldset>
+    <legend>Por favor preencha o nome, e-mail e comentário</legend>
+    <p>
+      <label for="cnome">@ViewBag.Message</label>
+      <input class="form-control" type="text" id="cnome" name="nome">
+    </p>
+    <p>
+      <label for="cemail">E-mail</label>
+      <input class="form-control" type="email" id="cemail" name="test_email">
+    </p>
+    <p>
+      <label for="ccomentario">Seu comentário (obrigatório)</label>
+      <textarea id="ccomentario" name="comentario"></textarea>
+    </p>
+    <p>
+      <input type="submit" value="Enviar">
+    </p>
+  </fieldset>
+</form>
