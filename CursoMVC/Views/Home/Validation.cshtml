@@ -4,10 +4,8 @@
 <script type="text/javascript" src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
 <!-- Inclusão do metodos adicionais-->
 <script type="text/javascript" src="~/lib/jquery-validation/dist/additional-methods.min.js"></script>
-<!-- validation - unobstrusive -->
-@* <script type="text/javascript" src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script> *@
 
-<link rel="stylesheet" href="">
+<link rel="stylesheet" href="~/css/validation.css">
 <script type="text/javascript" src="~/js/validator.js"></script>
 
 <form id="formComentario" method="post">
@@ -23,7 +21,7 @@
     </p>
     <p>
       <label for="ccomentario">Seu comentário (obrigatório)</label>
-      <textarea id="ccomentario" name="comentario"></textarea>
+      <textarea class="form-control" id="ccomentario" name="comentario"></textarea>
     </p>
     <p>
       <input type="submit" value="Enviar">

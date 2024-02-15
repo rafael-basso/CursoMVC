@@ -48,6 +48,10 @@ namespace CursoMVC.Controllers
             return View();
         }
 
+        public IActionResult TestarAction() {
+          return null;
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

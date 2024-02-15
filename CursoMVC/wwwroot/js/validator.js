@@ -1,5 +1,4 @@
-$(document).ready(function () {
-//   debugger
+// $(document).ready(function () {
     $("#formComentario").validate({
         debug: false,
         rules: {
@@ -31,7 +30,18 @@ $(document).ready(function () {
             },
         },
         submitHandler: function (form) {
-            debugger;
+            debugger
+            $.ajax({
+              url: '/Home/TestarAction',
+              type: 'POST',
+              data: { /* Optional data to send to the server */ },
+              success: function(response) {                  
+                  console.log(response);
+              },
+              error: function(xhr, status, error) {                  
+                  console.log(error);
+              }
+          });          
         },
     });
-});
+// });
